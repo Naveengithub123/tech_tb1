@@ -1,0 +1,3 @@
+this th first file for git
+this will be staged and commit 
+and finally it will be pushed to the remote repo
